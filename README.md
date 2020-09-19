@@ -16,4 +16,5 @@ using VQE-like circuits, created by yourself from scratch.
 # Author
 
 Author: Kartikeya Rambhatla
+
 Date: September 19, 2020
